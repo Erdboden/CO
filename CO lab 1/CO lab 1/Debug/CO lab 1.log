@@ -1,0 +1,18 @@
+﻿Build started 27.02.2016 18:20:25.
+     1>Project "E:\c++\programare windows\CO\CO lab 1\CO lab 1\CO lab 1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\c++\programare windows\co\co lab 1\co lab 1\source.cpp(14): warning C4244: 'initializing' : conversion from 'double' to 'const int', possible loss of data
+     1>e:\c++\programare windows\co\co lab 1\co lab 1\source.cpp(48): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>e:\c++\programare windows\co\co lab 1\co lab 1\source.cpp(57): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\c++\programare windows\co\co lab 1\co lab 1\source.cpp(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>e:\c++\programare windows\co\co lab 1\co lab 1\source.cpp(256): warning C4101: 'i' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\c++\programare windows\CO\CO lab 1\Debug\CO lab 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\c++\programare windows\CO\CO lab 1\Debug\CO lab 1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\c++\programare windows\CO\CO lab 1\Debug\CO lab 1.lib" /MACHINE:X86 Debug\Source.obj
+         CO lab 1.vcxproj -> E:\c++\programare windows\CO\CO lab 1\Debug\CO lab 1.exe
+     1>Done Building Project "E:\c++\programare windows\CO\CO lab 1\CO lab 1\CO lab 1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
